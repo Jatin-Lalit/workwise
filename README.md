@@ -39,7 +39,7 @@ This is an e-commerce API built using Node.js, Express, and Sequelize for Postgr
 
 4. **Update config.json in the config folder with your database credentials**
 
-5. **Run the server:**
+5. **Run the server: npm start**
 
 # API Documentation
 
